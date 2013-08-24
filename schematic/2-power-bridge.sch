@@ -236,7 +236,7 @@ symversion=0.1
 T 53400 66300 5 10 1 1 0 0 1
 value=10u
 T 53400 66300 5 10 0 1 0 0 1
-footprint=TANT_B
+footprint=TANT_D
 }
 C 53400 59800 1 0 1 capacitor-2.sym
 {
@@ -249,7 +249,7 @@ symversion=0.1
 T 53400 59800 5 10 1 1 0 0 1
 value=10u
 T 53400 59800 5 10 0 1 0 0 1
-footprint=TANT_B
+footprint=TANT_D
 }
 C 57000 66200 1 270 0 capacitor-2.sym
 {
@@ -262,7 +262,7 @@ symversion=0.1
 T 57000 66200 5 10 1 1 0 0 1
 value=10u
 T 57000 66200 5 10 0 0 0 0 1
-footprint=TANT_B
+footprint=TANT_D
 }
 C 57000 59700 1 270 0 capacitor-2.sym
 {
@@ -275,7 +275,7 @@ symversion=0.1
 T 57000 59700 5 10 1 1 0 0 1
 value=10u
 T 57000 59700 5 10 0 0 0 0 1
-footprint=TANT_B
+footprint=TANT_D
 }
 C 56600 66700 1 90 0 diode-3.sym
 {
@@ -471,7 +471,7 @@ device=POLARIZED_CAPACITOR
 T 48800 70400 5 10 0 0 90 6 1
 symversion=0.1
 T 49700 70600 5 10 0 1 90 0 1
-footprint=TANT_B
+footprint=TANT_D
 T 49200 70400 5 10 1 1 90 6 1
 refdes=C210
 T 49700 70600 5 10 1 1 90 0 1
